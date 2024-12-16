@@ -1,0 +1,46 @@
+/* 1. Element Selector */
+/* h2{
+    color:yellow;
+    background-color: black;
+}
+
+p{
+    color:yellow;
+    background-color: black;
+} */
+  
+/* 2. Element Selector List */
+/* h2,p{
+    color:yellow;
+    background-color: black;
+} */
+
+/* 3. Universal Selector-> selects all elements & gives separately for each element*/
+/* *{
+    color:yellow;
+    border: 2px dotted red;
+    background-color: black;
+} */
+
+/* body{
+    color:yellow;
+    border: 10px solid red;
+    background-color: black;
+} */
+
+/* 4. ID Selector */
+/* #h2Count3{
+    color:green;
+    border: 2px dotted red;
+    background-color: black;
+} */
+
+/* 5. Class Selector */
+.h2classSelector{
+    color:pink;
+    background: black;
+    border: 2px solid blue;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
